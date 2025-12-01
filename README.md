@@ -32,11 +32,11 @@
 
 A broad set of tweakable settings covering:
 
-* Weapon handling
+* Weapon Animations
 * Visual effects
-* Character reactions
-* Physics behavior
-* Performance profiles
+* Sound effects
+* Models
+* ETC
 
 ### 🚀 Live Hotfixes & Patch Support
 
@@ -50,7 +50,7 @@ Built to receive:
 
 ## 📦 Installation
 
-1. Download the latest release from the **Releases** page
+1. Download the latest release from this repo page
 2. Insert the engine folder/module into your game
 3. Adjust settings in the configuration module
 4. Hook your weapons into the engine (sample guns included)
@@ -61,11 +61,14 @@ Built to receive:
 
 HIPFIRE ENGINE is free to use, modify, and integrate — but requires attribution.
 
-**You must credit:**
+**You must either credit:**
 
 ```
-HIPFIRE ENGINE by <Your Name or Username>
-https://github.com/<your-user>/HIPFIRE-ENGINE
+HIPFIRE ENGINE by NoX
+```
+Or
+```
+https://github.com/NoXDev-rblx/HIPFIRE-ENGINE
 ```
 
 **You may not:**
@@ -78,7 +81,7 @@ https://github.com/<your-user>/HIPFIRE-ENGINE
 
 ## 📚 Docs & Examples
 
-Documentation, examples, and setup guides will be added soon. Check the `examples/` folder for sample weapons.
+Documentation, examples, and setup guides will be added soon. Check the `examples/` folder for sample weapons soon.
 
 ---
 
@@ -90,7 +93,7 @@ Pull requests, bug reports, and improvements are welcome! Fork the project and s
 
 ## 🛠️ Planned Future Features
 
-* Improved animation blending
+* More gun features
 * Weapon attachment system
 * AI integration hooks
 * In-game debugging console
@@ -100,4 +103,4 @@ Pull requests, bug reports, and improvements are welcome! Fork the project and s
 
 ## 📄 License
 
-Uses the **MIT License** by default unless you choose another.
+Uses the **MIT License**.
